@@ -218,11 +218,12 @@ A review of social media presence reveals:
 
 ```
 .
-├── data.csv                                      # Raw input data
+├── images                                     # Raw 
+figures and dashboards
 ├── Abderaouf_KHELFAOUI_DATA_AI_Engineer_.ipynb   # Full analysis notebook
 └── README.md                                     # This file
 ```
 
 ---
 
-*Assignment completed for MeetMyMama Company — Abderaouf Khelfaoui*
+
