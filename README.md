@@ -1,12 +1,10 @@
 # Lead Conversion Analysis & Prediction
-### Technical Assignment — MeetMyMama Company
-**Candidate:** Abderaouf Khelfaoui | **Examiner:** Mr. Junned Mohammad
 
 ---
 
 ## Overview
 
-This project presents a full end-to-end data analysis and machine learning pipeline to understand and predict lead conversion for **MeetMyMama**, a catering company operating in France. The work covers data cleaning, exploratory data analysis (EDA), business-driven analysis, and a predictive XGBoost classification model.
+This project presents a full end-to-end data analysis and machine learning pipeline to understand and predict lead conversion for a company, a catering company operating in France. The work covers data cleaning, exploratory data analysis (EDA), business-driven analysis, and a predictive XGBoost classification model.
 
 ---
 
